@@ -1,3 +1,4 @@
+# Captura la estatura y el peso para calcular el IMC y determina su condición de peso
 Altura = float(input("Ingrese su estatura en metros: "))
 Peso = float(input("Ingrese su peso en kilogramos: "))
 
